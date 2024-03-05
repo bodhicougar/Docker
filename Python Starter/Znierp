@@ -1,0 +1,140 @@
+{
+    "type": "Config",
+    "favicon": "/images/favicon.png",
+    "header": {
+        "headerVariant": "variant-b",
+        "isSticky": true,
+        "primaryColors": "colors-d",
+        "secondaryColors": "colors-d",
+        "title": "Business",
+        "isTitleVisible": false,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Start",
+                "url": "/",
+                "altText": "Sichtbarkeit im Internet"
+            },
+            {
+                "type": "Link",
+                "label": "Über",
+                "url": "/about",
+                "altText": "Warum wir was wie machen"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": "Erfolgreich vom Digitalen Marketing zum PR"
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Kontakt",
+                "url": "mailto:contact@bbmediadesign.net",
+                "altText": "Kontaktaufnahme mit uns",
+                "style": "secondary",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/1410619548.jpg",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "altText": "Positionierung im Web"
+        }
+    },
+    "footer": {
+        "variant": "variant-b",
+        "colors": "colors-d",
+        "title": "Sag' hallo!",
+        "contacts": {
+            "title": "Kontaktdetails",
+            "phoneNumber": "+43 660 59999 85",
+            "phoneAltText": "Mobiltelefon",
+            "email": "contact@bbmediadesign.net",
+            "emailAltText": "Unsere E-Mail Adresse",
+            "address": "In der Wolke zuhause ;-D",
+            "addressAltText": "Unsere Adresse"
+        },
+        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Start",
+                "url": "/",
+                "altText": "Zurück zur Startseite"
+            },
+            {
+                "type": "Link",
+                "label": "Über",
+                "url": "/about",
+                "altText": "Warum wir wie was machen"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": "Erfolgreich vom Digitalen Marketing zum PR"
+            },
+            {
+                "type": "Link",
+                "label": "Kontakt",
+                "url": "mailto:contact@bbmediadesign.net",
+                "altText": "Kontaktaufnahme mit uns"
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://twitter.com/BBMediaDesign",
+                "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/bodhicougar",
+                "icon": "github"
+            },
+            {
+                "type": "Social",
+                "altText": "YouTube",
+                "label": "YouTube",
+                "url": "https://www.youtube.com/playlist?list=PLqAjUDaDCw3H1iqJhKCzigbbWJ0DyWjCo",
+                "icon": "youtube"
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Privacy Policy",
+                "url": "https://legal-terms.jimdofree.com/privacy-policy/",
+                "altText": "Wir respektieren Ihre Privatsphäre"
+            },
+            {
+                "type": "Link",
+                "label": "Terms & Conditions",
+                "url": "https://legal-terms.jimdofree.com/",
+                "altText": "Wir respektieren Ihre Privatsphäre"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        }
+    },
+    "defaultMetaTags": []
+}
