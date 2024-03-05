@@ -1,0 +1,1 @@
+Alle Kurse & Kursverläufe abgesichert.
